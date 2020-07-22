@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on ... Python
 - 🤔 I’m looking for help with ... Finding Carrer Opportunity 
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... singh.hrmn98@gmail.com
+- 📫 How to reach me: ... [Gmail](singh.hrmn98@gmail.com), [LinkedIn](https://www.linkedin.com/in/harmandeepsingh7/)
 <!--
 - 😄 Pronouns: ... 
 - ⚡ Fun fact: ... 

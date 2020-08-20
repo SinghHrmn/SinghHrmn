@@ -1,6 +1,6 @@
 ### Hi, I'm Harmandeep Singh 👋
 
-I'm an Open-Source Contributor. Selected in GSoC'20, working with CVE Binary Tool sub-org @Python Software Foundation. Skilled in Python and C++ I'm looking for opportunities where I can showcase my skills. 
+I'm an Open-Source Contributor. Selected in GSoC'20, working with [CVE Binary Tool](https://github.com/intel/cve-bin-tool) sub-org @Python Software Foundation. Skilled in Python and C++ I'm looking for opportunities where I can showcase my skills. 
 
 
 

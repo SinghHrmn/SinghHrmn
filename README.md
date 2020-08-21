@@ -3,7 +3,7 @@
                                                   | I'm 👨‍💻️Harmandeep |
                                                  <====================>
 
-[![intro](https://github.com/SinghHrmn/SinghHrmn/img/intro_main.jpg)]()<a href="">
+[![intro](https://github.com/SinghHrmn/SinghHrmn/blob/master/img/intro_main.jpg)]()<a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SinghHrmn&theme=vision-friendly-dark" />
 </a>
 

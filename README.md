@@ -3,7 +3,7 @@
                                                   | I'm 👨‍💻️Harmandeep |
                                                  <====================>
 
-[![intro](https://cdn.pixabay.com/photo/2017/04/25/05/14/samurai-2258604_960_720.jpg)]()<a href="">
+[![intro](https://github.com/SinghHrmn/SinghHrmn/img/intro_main.jpg)]()<a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SinghHrmn&theme=vision-friendly-dark" />
 </a>
 

@@ -4,11 +4,14 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=SinghHrmn&theme=vision-friendly-dark&show_icons=true&hide_border=true" />
 </a>
 
-                  
-                  <====================>
-                   | 👋️Hello 🌏️World! | 
-                   | I'm 👨‍💻️Harmandeep |
-                  <====================>
+                     ________________
+                    ////////!!\\\\\\\\
+       ,,,,       <====================>
+      (._.)        |                  |
+        _          | 👋️Hello 🌏️World! | 
+       /|\         | I'm 👨‍💻️Harmandeep |
+        -          |                  |
+       | |        <====================>
 
 ### About Me
 ---------------------------------

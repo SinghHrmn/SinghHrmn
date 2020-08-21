@@ -1,8 +1,8 @@
+![intro](https://cdn.pixabay.com/photo/2017/04/25/05/14/samurai-2258604_960_720.jpg)
+
 ### Hi, I'm Harmandeep Singh 👋
 
-I'm an Open-Source Contributor. Selected in GSoC'20, working with [CVE Binary Tool](https://github.com/intel/cve-bin-tool) sub-org @Python Software Foundation. Skilled in Python and C++ I'm looking for opportunities where I can showcase my skills. 
-
-
+I'm an Open-Source Contributor. Selected in GSoC'20, working with [CVE Binary Tool](https://github.com/intel/cve-bin-tool) sub-org @Python Software Foundation. Skilled in Python and C++ I'm looking for opportunities where I can showcase my skills.
 <!--
 - 🔭 I’m currently working on ... [CVE Binary Tool](https://github.com/intel/cve-bin-tool)
 - 🌱 I’m currently learning ... Selenium
@@ -14,4 +14,10 @@ I'm an Open-Source Contributor. Selected in GSoC'20, working with [CVE Binary To
 - 😄 Pronouns: ... 
 - ⚡ Fun fact: ... 
 -->
-[![Harmandeep's github stats](https://github-readme-stats.vercel.app/api?username=SinghHrmn&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinghHrmn&layout=compact" />
+</a>
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SinghHrmn&theme=onedark" />
+</a>
